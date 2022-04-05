@@ -1,5 +1,5 @@
 # Python-Script-Open-File
-Script for opening software on the time. We set time in the script when the software open and close.
+Script for opening software on the time. We set time in the script when the software open.
 
 We set a time when the software open, working time and when to close software.
 This script is in the while loop, we only have to whenever start the script and waiting the time.
